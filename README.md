@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @almapajo3
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on simple C projects
 - 📫 How to reach me
 
